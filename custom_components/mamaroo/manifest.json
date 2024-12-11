@@ -1,0 +1,9 @@
+{
+  "domain": "mamaroo",
+  "name": "MamaRoo",
+  "version": "V.0.0.1",
+  "documentation": "https://github.com/elimisbak/mamaroo/",
+  "requirements": ["asyncio-mqtt", "bleak"],
+  "dependencies": [],
+  "codeowners": ["@elimisback"]
+}
